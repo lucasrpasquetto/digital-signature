@@ -1,0 +1,24 @@
+{
+  "name": "blit-signature",
+  "version": "1.0.0",
+  "description": "Digital signature component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasrpasquetto/digital-signature.git"
+  },
+  "keywords": [
+    "signature",
+    "digital",
+    "canvas"
+  ],
+  "author": "Lucas R. Pasquetto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasrpasquetto/digital-signature/issues"
+  },
+  "homepage": "https://github.com/lucasrpasquetto/digital-signature#readme"
+}
